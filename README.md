@@ -20,7 +20,7 @@ Hello there! I’m a mechanical engineer who found his calling at the intersecti
  - **March:** Contributed to Helpful Engineers' Covid 19 temperature detection project.
 
 🔵 **2021**
- - **October:** Launched [Theengs decoder](https://decoder.theengs.io/), a BLE decoding library.
+ - **October:** Launched [Theengs decoder](https://decoder.theengs.io/) with @h2zero, a BLE decoding library.
 
 🔵 **2022**
  - **February:** Introduced [Theengs Gateway](https://gateway.theengs.io/).
