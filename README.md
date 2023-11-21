@@ -20,7 +20,7 @@ Hello there! I’m a mechanical engineer who found his calling at the intersecti
  - **March:** Contributed to Helpful Engineers' Covid 19 temperature detection project.
 
 🔵 **2021**
- - **October:** Launched [Theengs decoder](https://decoder.theengs.io/) with @h2zero, a BLE decoding library.
+ - **October:** Launched [Theengs decoder](https://decoder.theengs.io/) with [@h2zero](https://github.com/h2zero), a BLE decoding library.
 
 🔵 **2022**
  - **February:** Introduced [Theengs Gateway](https://gateway.theengs.io/).
@@ -28,7 +28,8 @@ Hello there! I’m a mechanical engineer who found his calling at the intersecti
 
 🔵 **2023**
  - **January:** Launched [Theengs Plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption).
- - **February:** Adaptive scanning with [@DigiH](https://github.com/DigiH). 
+ - **February:** Adaptive scanning with [@DigiH](https://github.com/DigiH).
+ - **November:** Launched [Theengs Bridge](https://shop.theengs.io/products/theengs-bridge-esp32-ble-mqtt-gateway-with-ethernet-and-external-antenna)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1technophile)](https://github.com/anuraghazra/github-readme-stats)
